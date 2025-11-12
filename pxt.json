@@ -1,0 +1,26 @@
+{
+    "name": "Augen_Funk_empfangen",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "funk": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.7",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}

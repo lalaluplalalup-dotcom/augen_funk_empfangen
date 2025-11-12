@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="w+/;]xQZ*Sk#AN8lAVYH" x="34" y="52"><statement name="HANDLER"><block type="radio_set_group" id="PA7MoRQ=dYIjQtc:9LW`"><value name="ID"><shadow type="math_number_minmax" id="hXEQ%Uc62A$sppI!JG1`"><mutation min="0" max="255" label="Id" precision="0"></mutation><field name="SLIDER">1</field></shadow></value></block></statement></block><block type="radio_on_number_drag" id=".6i$j?M$k,hRr.feCwTn" x="99" y="243"><value name="HANDLER_DRAG_PARAM_receivedNumber"><block type="argument_reporter_number" id="kXLhy$swU.|mv3-qtm%H" deletable="false"><mutation localizationname="radio.onReceivedNumber|handlerParam|receivedNumber"></mutation><field name="VALUE">receivedNumber</field></block></value><statement name="HANDLER"><block type="device_show_leds" id="0aUL[Gai%yJjOLFbK+I%"><field name="LEDS">`
+        . . . . . 
+        # # # . . 
+        # # # . . 
+        # # # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="M:j_C-V^dATx5a0N^`$?"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="i?FA2ymwhInX]GCFJfH8"><field name="LEDS">`
+        . . . . . 
+        . . # # # 
+        . . # # # 
+        . . # # # 
+        . . . . .
+        `</field><next><block type="device_show_leds" id=";w7$3e?}!UDuX%v6NeCe"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></statement></block></xml>
